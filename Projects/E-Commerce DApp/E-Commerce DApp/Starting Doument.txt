@@ -1,6 +1,0 @@
---->first clone the data from link 
-https://github.com/dappuniversity/dappazon
---->create folder E-Commerce DApp
---->open gitBash and write 
-git clone paste above link here,
---->clone data automatically . 

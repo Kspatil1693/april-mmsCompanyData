@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>Register Form</title>
+</head>
+
+<body>
+    <div class="container mt-3 shadow-lg p-3" style="width: 35%">
+     <h2 class="text-center">Agent Registration Form</h2>
+    <form action="/agentRegister" method="POST">
+        <div class="mb-1">
+            <label for="FirstNameId" class="form-label">
+                FirstName </label>
+            <input type="text" name="firstName" class="form-control" id="FirstNameId" autocomplete="off"/>
+        </div>
+        <div class="mb-1">
+            <label for="MiddleNameId" class="form-label">
+                MiddleName</label>
+            <input type="text" name="middleName" class="form-control" id="MiddleNameId" autocomplete="off"/>
+        </div>
+            <div class="mb-1">
+            <label for="LastNameId" class="form-label">
+                LastName </label>
+            <input type="text" name="lastName" class="form-control" id="LastNameId"autocomplete="off" />
+            </div>
+            <div class="mb-1">
+                <label for="PhoneNumberId" class="form-label">
+                    PhoneNumber</label>
+                <input type="text" name="phoneNumber" class="form-control" id="PhoneNumberId"autocomplete="off" />
+            </div>
+        <div class="mb-1">
+              <label for="whatsAppNumberId" class="form-label">
+               WhatsAppNumber </label>
+            <input type="text" name="whatsAppNumber" class="form-control" id="whatsAppNumberId" autocomplete="off"/>
+                    </div>
+        <div class="mb-1">
+            <label for="EmailId" class="form-label">
+                Email</label>
+            <input type="text" name="email" class="form-control" id="EmailId" />
+        </div>
+        <div class="mb-1">
+            <label for="PasswordId" class="form-label">
+                Password</label>
+            <input type="text" name="password" class="form-control" id="PasswordId" />
+        </div>
+               <div class="mb-1">
+       <label for="buildingNameId" class="form-label">
+        BuildingName</label>
+        <input  type="text"  name="buildingName" class="form-control"  id="buildingNameId" autocomplete="off"/>    
+        </div>
+        <div class="mb-1">
+            <label for="streetNameId" class="form-label">
+                StreetName</label>
+            <input type="text" name="streetName" class="form-control" id="streetNameId" autocomplete="off" />
+        </div>
+        <div class="mb-1">
+            <label for="PinCodeId" class="form-label">
+                PinCode</label>
+            <input type="text" name="pinCode" class="form-control" id="PinCodeId" autocomplete="off"/>
+        </div>
+        <div class="mb-1">
+            <label for="AgentCodeId" class="form-label">
+                AgentCode</label>
+            <input type="text" name="AgentCode" class="form-control" id="AgentCodeId" autocomplete="off"/>
+        </div>
+        <button type="submit"name="submit" class="btn btn-primary">
+            submit
+        </button>
+    </form>
+    </div>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+
+</body>
+
+</html>

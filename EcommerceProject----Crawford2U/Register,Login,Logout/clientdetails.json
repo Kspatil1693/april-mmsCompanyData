@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "650035e2ffee313034b805ca"
+  },
+  "authToken": "4f7b7a3b25b628358e7937d3191c3556",
+  "salt": "b1f3d820-5152-11ee-a969-39632b3809a3",
+  "firebaseToken": "",
+  "firstName": "Dilip",
+  "middleName": "Gopinath",
+  "lastName": "Pawar",
+  "clientPhoneNumber": "8291270348",
+  "whatsAppNumber": "8291270348",
+  "adharCard": "12345678978",
+  "panCard": "DGP456321ASD",
+  "email": "dilip@gmail.com",
+  "encry_password": "bedadb35760bd3f79a0c0b9253eb23dd485c5d2be8e57d231a072e40a9e8d611",
+  "pincode": "400020",
+  "code": "D035ndp",
+  "buildingName": "MahaLakshmi",
+  "streetName": "GaneshTemple",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65015b40e1024a4d0ccfeb8d"
+  },
+  "authToken": "",
+  "salt": "8e37f1a0-5201-11ee-aa18-4539dae14ba5",
+  "firebaseToken": "",
+  "firstName": "naren",
+  "middleName": "dilip",
+  "lastName": "pawar",
+  "clientPhoneNumber": "6598745214",
+  "whatsAppNumber": "6598745214",
+  "adharCard": "78651234758",
+  "panCard": "SUD1234PP",
+  "email": "naren@gmail.com",
+  "encry_password": "82da95377d18462d38459d72433aadda2f62fcd440da4100969ce0b37cfba88c",
+  "pincode": "400065",
+  "code": "D032pas",
+  "buildingName": "MahaLakshmi",
+  "streetName": "GaneshTemple",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6509c8a26a1dfa423c68a1b1"
+  },
+  "salt": "746c3460-5707-11ee-a4d5-89795d0ba657",
+  "firebaseToken": "",
+  "firstName": "Swati",
+  "middleName": "sunil",
+  "lastName": "sawant",
+  "clientPhoneNumber": "7896541237",
+  "whatsAppNumber": "7859632145",
+  "adharCard": "653446170854",
+  "panCard": "AED1234PP",
+  "email": "Swati@gmail.com",
+  "encry_password": "ba73ac00aabde93647c77ee525ee108bbf33f69aba6d27b0158746f449807b54",
+  "pincode": "400091",
+  "code": "J091kdp",
+  "buildingName": "Ganesh Society",
+  "streetName": "mahadev mandir",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650a9e4e022e540380a42daf"
+  },
+  "authToken": "",
+  "salt": "cfec2d20-5786-11ee-b6a2-9348343e4b8d",
+  "firebaseToken": "",
+  "firstName": "karishma",
+  "middleName": "dilip",
+  "lastName": "pawar",
+  "clientPhoneNumber": "9822160854",
+  "whatsAppNumber": "9822160854",
+  "adharCard": "653446170854",
+  "panCard": "AED1234PP",
+  "email": "karishma@gmail.com",
+  "encry_password": "c8161eb22443fe3b467e0ecdeaf6a5fb9946ba83c6653bba5f154b988c175967",
+  "pincode": "400091",
+  "code": "J091kdp",
+  "buildingName": "Rama Society",
+  "streetName": "mahadev mandir",
+  "__v": 0
+}]

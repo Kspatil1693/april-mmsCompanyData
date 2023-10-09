@@ -1,0 +1,368 @@
+[{
+  "_id": {
+    "$oid": "65002238f5329b259cfb5f4c"
+  },
+  "authToken": "8cdcb87b2d1c2442eaa38c751455ebd5",
+  "salt": "f9688040-5146-11ee-a705-5db389ec185b",
+  "firebaseToken": "",
+  "firstName": "karishma",
+  "middleName": "dilip",
+  "lastName": "pawar",
+  "phoneNumber": "9822160856",
+  "whatsAppNumber": "9822160856",
+  "adharCard": "87965489789",
+  "panCard": "KGU789321",
+  "email": "karishma@gmail.com",
+  "encry_password": "3206f1aab22f9eeafd4fe18bdbae7f186b8427e384d91a1c4605c6c042f577ff",
+  "pincode": "400091",
+  "code": "J091kdp",
+  "buildingName": "Officer Quatars",
+  "streetName": "Mazgaon Garden",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6509d56e3fa47b291440a459"
+  },
+  "authToken": [],
+  "salt": "1533db30-570f-11ee-9257-65b1e160d114",
+  "firebaseToken": "",
+  "firstName": "vishnu",
+  "middleName": "rama",
+  "lastName": "patil",
+  "phoneNumber": "8795634574",
+  "whatsAppNumber": "8795634574",
+  "adharCard": "99886655447",
+  "panCard": "ADG145263",
+  "email": "vishnu@gmail.com",
+  "encry_password": "d4bd0fa5ec807d1f9eb9b62a76416ad10341157e662cc82d33f4665ea8840f7b",
+  "pincode": "400020",
+  "code": "B020vrp",
+  "buildingName": "Sama",
+  "streetName": "Garden ram",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650ac8b3063d3422a01f7d1c"
+  },
+  "salt": "15588250-57a0-11ee-a6a5-df2ae0624cea",
+  "firebaseToken": "",
+  "firstName": "vishva",
+  "middleName": "ravana",
+  "lastName": "roy",
+  "phoneNumber": "9988774455",
+  "whatsAppNumber": "9988774455",
+  "adharCard": "456321458122",
+  "panCard": "ADG145GP11",
+  "email": "vishva@gmail.com",
+  "encry_password": "f77cf78371535264bf7b96c02a2de0da806ae60ebfbda85f1694c602ee392b0e",
+  "pincode": "400020",
+  "code": "B020vrr",
+  "buildingName": "maharaja",
+  "streetName": "Garden ram",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650b1485f8e1123edc3b30f7"
+  },
+  "salt": "4647d910-57cd-11ee-850c-1bf436636024",
+  "firebaseToken": "",
+  "firstName": "Narendra",
+  "middleName": "Dilip",
+  "lastName": "Pawar",
+  "phoneNumber": "8796547896",
+  "whatsAppNumber": "8796547896",
+  "email": "ndp@gmail.com",
+  "encry_password": "b8bb1d474ac856f30d09845b3f12e235a74be149de20b92bb3ca9297bdfb650a",
+  "buildingName": "Asdfgh",
+  "streetName": "Mazgaon Garden",
+  "__v": 0,
+  "authToken": "72cc9c5f7dd2182b28d1d2daa0039c85"
+},{
+  "_id": {
+    "$oid": "650bd5ef6d7e472d049a6e5f"
+  },
+  "salt": "8ecdb060-5840-11ee-abfe-f1debb938a43",
+  "firebaseToken": "",
+  "firstName": "reshma",
+  "middleName": "warwert",
+  "lastName": "patil",
+  "phoneNumber": "7418529636",
+  "whatsAppNumber": "7418529636",
+  "email": "rsp@gmail.com",
+  "encry_password": "59d840a1468465aea4a9badbf800c96536aae9f60da7bd41cad058d668442308",
+  "buildingName": "sfdgh",
+  "streetName": "ASFDG",
+  "__v": 0,
+  "authToken": "9c748fb699a88771f67a0e85aa214795"
+},{
+  "_id": {
+    "$oid": "650bfa3a2fe3ad1dd0b8b3ee"
+  },
+  "salt": "31181e40-5856-11ee-b5ee-8f6d8ae81e03",
+  "firebaseToken": "",
+  "firstName": "samiksha",
+  "middleName": "rana",
+  "lastName": "roy",
+  "phoneNumber": "6589745632",
+  "whatsAppNumber": "6598741236",
+  "email": "rana@gmail.com",
+  "encry_password": "7be08aad8b9ab847985ecf02a4046739e6da60c9a7fd40bd596c75184a75b293",
+  "buildingName": "ranaBuilding",
+  "streetName": "mumbai",
+  "__v": 0,
+  "authToken": "0fc02339c6daa9191c41c1f6117dfcdb"
+},{
+  "_id": {
+    "$oid": "650c0e06b19afa088847487a"
+  },
+  "salt": "fd9ed160-5861-11ee-b61f-9987a9a2c29e",
+  "firebaseToken": "",
+  "firstName": "reshma",
+  "middleName": "warwert",
+  "lastName": "patil",
+  "phoneNumber": "7569841236",
+  "whatsAppNumber": "4758963214",
+  "email": "rsp@gmail.com",
+  "encry_password": "c878cf6f8c2234cf77cce261cbc42bbed06a971c3c54fa25fdc04cc39231774f",
+  "buildingName": "dgsdhfgh",
+  "streetName": "ASFDG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650c1032b19afa088847487b"
+  },
+  "salt": "4905af60-5863-11ee-b61f-9987a9a2c29e",
+  "firebaseToken": "",
+  "firstName": "deepak",
+  "middleName": "marannn",
+  "lastName": "sumalraidu",
+  "phoneNumber": "7738277340",
+  "whatsAppNumber": "7738277340",
+  "email": "abc@gmail.com",
+  "encry_password": "785b23f915025c1abd40228e2c074036f4480b450f19b275f538956494e27b0e",
+  "buildingName": "dferdb",
+  "streetName": "fhhhlk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650c1032b19afa088847487c"
+  },
+  "salt": "4907ab30-5863-11ee-b61f-9987a9a2c29e",
+  "firebaseToken": "",
+  "firstName": "deepak",
+  "middleName": "marannn",
+  "lastName": "sumalraidu",
+  "phoneNumber": "7738277340",
+  "whatsAppNumber": "7738277340",
+  "email": "abc@gmail.com",
+  "encry_password": "86252aab5a8bd8867d86430434d711d40735ef362443aef0b74ccc500758c995",
+  "buildingName": "dferdb",
+  "streetName": "fhhhlk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650c11d86ccf3912bcd37f30"
+  },
+  "salt": "44bcc5a0-5864-11ee-a747-89ea48588d63",
+  "firebaseToken": "",
+  "firstName": "deepak",
+  "middleName": "MARANNA",
+  "lastName": "SUMALRAIDU",
+  "phoneNumber": "7738277341",
+  "whatsAppNumber": "7738277341",
+  "adharCard": "412541524871",
+  "panCard": "PNWP0708H1",
+  "email": "bac@gmail.com",
+  "encry_password": "14fa5aa6e6206ec5b0e60465e21c5989c913a571b4d72f308a716e47ca2d0822",
+  "pincode": "400010",
+  "code": "A010dMS",
+  "buildingName": "srakalp",
+  "streetName": "carpenter",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650c1294b19afa088847487d"
+  },
+  "salt": "b4b6b230-5864-11ee-b61f-9987a9a2c29e",
+  "firebaseToken": "",
+  "firstName": "deepak",
+  "middleName": "marannn",
+  "lastName": "sumalraidu",
+  "phoneNumber": "7738277347",
+  "whatsAppNumber": "7738277340",
+  "email": "abc@gmail.com",
+  "encry_password": "4dd07e794fd73692ee4fb8f4eaac211199bed0b958924a1f05fc4472f258eddf",
+  "buildingName": "dferdb",
+  "streetName": "fhhhlk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650c6b2b4f43d20a144e673e"
+  },
+  "salt": "829334b0-5899-11ee-a63f-9b86c6aea003",
+  "firebaseToken": "",
+  "firstName": "sdfghjk",
+  "middleName": "zdxfghj",
+  "lastName": "SUMAL12345",
+  "phoneNumber": "7738277356",
+  "whatsAppNumber": "7738277341",
+  "adharCard": "412541524871",
+  "panCard": "PNWP0708H1",
+  "email": "bac@gmail.com",
+  "encry_password": "fee58bcd4f99b0749f6e6e912ba9a76c6e446aef4a14c38e42a2373a2cc08837",
+  "pincode": "400010",
+  "code": "A010szS",
+  "buildingName": "srakalp",
+  "streetName": "carpenter",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650e11de1215002c14fd7e65"
+  },
+  "salt": "7506e790-5995-11ee-b381-c5f2512ab57d",
+  "firebaseToken": "",
+  "firstName": "Narendra",
+  "middleName": "Dilip",
+  "lastName": "Pawar",
+  "phoneNumber": "9222160854",
+  "whatsAppNumber": "7856321456",
+  "alternativeNumber": "7896325412",
+  "adharCard": "147852369877",
+  "panCard": "ASDF147523",
+  "email": "ndp@gmail.com",
+  "encry_password": "ca5068eed3b3831b9974432bc92e4be61f60373e6f25d8d9badbcfaf028e7e44",
+  "pinCode": "400010",
+  "code": "A010NDP",
+  "buildingName": "om",
+  "flatNumber": "906",
+  "streetName": "Mazgaon Garden",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650e12341215002c14fd7e66"
+  },
+  "salt": "a8600bd0-5995-11ee-b381-c5f2512ab57d",
+  "firebaseToken": "",
+  "firstName": "Narendra",
+  "middleName": "Dilip",
+  "lastName": "Pawar",
+  "phoneNumber": "9422160854",
+  "whatsAppNumber": "7856321456",
+  "alternativeNumber": "7896325412",
+  "adharCard": "147852369877",
+  "panCard": "ASDF147523",
+  "email": "ndp@gmail.com",
+  "encry_password": "d11919ef9242212ad54a4bb63dd89849a96b3ee098420dbf1c943ac3a2d7a4c5",
+  "pinCode": "400015",
+  "code": "B015NDP",
+  "buildingName": "om",
+  "flatNumber": "906",
+  "streetName": "Mazgaon Garden",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650e9279c4e53c411077617b"
+  },
+  "salt": "1d0371b0-59e2-11ee-bac0-35a72e85d98b",
+  "firebaseToken": "",
+  "firstName": "Narendra",
+  "middleName": "Dilip",
+  "lastName": "Pawar",
+  "phoneNumber": "9822164569",
+  "whatsAppNumber": "7856321456",
+  "alternativeNumber": "7896325412",
+  "adharCard": "147852369877",
+  "panCard": "ASDF147523",
+  "email": "ndp@gmail.com",
+  "encry_password": "158c266e7dc2331b6e278eae5ba979187ff43ce752ffa5f356c8f6fa9282af08",
+  "pinCode": "400060",
+  "code": "F060NDP",
+  "buildingName": "om",
+  "flatNumber": "906",
+  "streetName": "Mazgaon Garden",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650e950bc4e53c411077617c"
+  },
+  "salt": "a4a99710-59e3-11ee-bac0-35a72e85d98b",
+  "firebaseToken": "",
+  "firstName": "karishma",
+  "middleName": "dilip",
+  "lastName": "pawar",
+  "phoneNumber": "8291270348",
+  "whatsAppNumber": "7856321456",
+  "alternativeNumber": "7896325412",
+  "adharCard": "147852369877",
+  "panCard": "ASDF147523",
+  "email": "kspatil1693@gmail.com",
+  "encry_password": "ac9915d27b45b7c5e7de5c1c1bd8564b55a612152e5f428d07f27fb46b80a06d",
+  "pinCode": "400035",
+  "code": "D035kdp",
+  "buildingName": "EmperiaCapital",
+  "flatNumber": "906",
+  "streetName": "LP Nerul",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650e9d7d8386e0174cc24bd7"
+  },
+  "salt": "ad865210-59e8-11ee-98f6-6d3bfac21c2f",
+  "firebaseToken": "",
+  "firstName": "reshma",
+  "middleName": "warwert",
+  "lastName": "patil",
+  "phoneNumber": "5618529636",
+  "whatsAppNumber": "7856321456",
+  "alternativeNumber": "7896325412",
+  "adharCard": "147852369877",
+  "panCard": "ASDF147523",
+  "email": "rsp@gmail.com",
+  "encry_password": "0b99d8043e4fcf9870a8077f17536b26c74d6a10c763976779a60d53bd69ecdf",
+  "pinCode": "400058",
+  "code": "F058rwp",
+  "buildingName": "om",
+  "flatNumber": "906",
+  "streetName": "ASFDG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650ea0c98c703c40400e7f47"
+  },
+  "salt": "a4697ca0-59ea-11ee-99e6-cb04a6119d98",
+  "firebaseToken": "",
+  "firstName": "reshma",
+  "middleName": "warwert",
+  "lastName": "patil",
+  "phoneNumber": "9418529636",
+  "whatsAppNumber": "8745691236",
+  "alternativeNumber": "7896325412",
+  "adharCard": "147852369877",
+  "panCard": "ASDF147523",
+  "email": "rsp@gmail.com",
+  "encry_password": "5e30ec0438d9d8a452821f202e5dd44fec36c26e5c1d4902eb9cb795730c1336",
+  "pinCode": "400089",
+  "code": "I089rwp",
+  "buildingName": "EmperiaCapital",
+  "flatNumber": "906",
+  "streetName": "ASFDG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6516d2cef88c1320f0c640c1"
+  },
+  "salt": "28f51100-5ecd-11ee-8bc9-a97887223810",
+  "firebaseToken": "",
+  "firstName": "raja",
+  "middleName": "ram",
+  "lastName": "ravan",
+  "phoneNumber": "8569741236",
+  "whatsAppNumber": "4578963258",
+  "adharCard": "147825873698",
+  "panCard": "PNWP0708H4",
+  "email": "bac@gmail.com",
+  "encry_password": "0f416eb5028a880eb39993b85a70a7b90d1ad9f9ef3a2763a377182fada75dce",
+  "buildingName": "Sai",
+  "streetName": "New",
+  "__v": 0
+}]
